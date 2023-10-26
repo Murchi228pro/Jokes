@@ -1,0 +1,2 @@
+WIDTH = 665
+HEIGHT = 450
